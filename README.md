@@ -19,7 +19,8 @@ Ready to use ToDO list. It is build on Vue and Vuetify, mainly.
 7) You can easily navigate to google calander.
 
 ### Screenshots
-
+![GitHub Logo](/images/screenshot(1).png)
+Format: ![Alt Text](url)
 
 ### Created By 
 Mallika Punj
